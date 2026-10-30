@@ -69,8 +69,8 @@ I enjoy working at the intersection of **AI, software engineering, and design**,
 |---|---|
 | 🌱 [FarmHub](https://github.com/sneka-06/FarmHub) | A farmer-focused inventory and marketplace application. |
 | 🩷 [SheHealth-AI](https://github.com/sneka-06/SheHealth-AI) | An AI-focused project exploring women's healthcare. |
-| 🎙️ TechBuddy | A meeting transcription application with real-time speech recognition. |
-| 📝 TheNotesApp | An Android notes application with mood tracking and private notes. |
+| 🎙️ [Transcriber](https://github.com/sneka-06/Transcriber-Live) | A meeting transcription application with real-time speech recognition. |
+| 📝 [Attendance System](https://github.com/sneka-06/qr_attendance) | An application that tracks the attendance of visitors.  |
 
 *More experiments, ideas, and projects live in my repositories!*
 
